@@ -4,6 +4,7 @@ I successfully completed the "Frontend Web Challenge," delivering a clean, respo
 visually appealing web application. The project is optimized for performance and deployed on Vercel, showcasing my proficiency in modern frontend development
 
 Website Link : https://next-ui-design.vercel.app/
+<br />
 Figma Desin Linnk : https://www.figma.com/file/PvKWUaFg54jmlwAFdbsDiF/Testing-screens?type=design&node-id=14-2706&mode=design
 
 
@@ -52,7 +53,7 @@ or Yarn
 yarn dev
 ```
 
-View the project at http://localhost:3000.
+View the project at View the project at [(https://next-ui-design.vercel.app/)](https://next-ui-design.vercel.app/)..
 
 ## Deployment
 
@@ -62,6 +63,7 @@ I successfully completed the "Frontend Web Challenge," delivering a clean, respo
 visually appealing web application. The project is optimized for performance and deployed on Vercel, showcasing my proficiency in modern frontend development
 
 Website Link : https://next-ui-design.vercel.app/
+<br />
 Figma Desin Linnk : https://www.figma.com/file/PvKWUaFg54jmlwAFdbsDiF/Testing-screens?type=design&node-id=14-2706&mode=design
 
 
@@ -110,9 +112,9 @@ or Yarn
 yarn dev
 ```
 
-View the project at http://localhost:3000.
+
 
 ## Deployment
 
-The project is deployed on Vercel. [Link to the deployed application on Vercel.]
+View the project at [(https://next-ui-design.vercel.app/)](https://next-ui-design.vercel.app/).
 
