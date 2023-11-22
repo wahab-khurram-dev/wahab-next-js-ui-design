@@ -21,7 +21,7 @@ Figma Desin Linnk : https://www.figma.com/file/PvKWUaFg54jmlwAFdbsDiF/Testing-sc
 To clone this repository, run:
 
 ```bash
-git clone [wahab-next-js-ui-design ](https://github.com/wahab-khurram-dev/wahab-next-js-ui-design.git)
+git clone https://github.com/wahab-khurram-dev/wahab-next-js-ui-design.git
 ```
 
 ## Install Project Dependencies
@@ -60,6 +60,5 @@ View the project at View the project at http://localhost:3000
 The project is deployed on Vercel.
 
 Website Link : https://next-ui-design.vercel.app/
-<br />
-Figma Desin Linnk : https://www.figma.com/file/PvKWUaFg54jmlwAFdbsDiF/Testing-screens?type=design&node-id=14-2706&mode=design
+
 
